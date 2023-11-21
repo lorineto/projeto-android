@@ -47,7 +47,7 @@ h1#name {
 }
 
 p#name {
-    width: 490px;
+    max-width: 490px;
     text-align: center;
     margin: auto;
     font: normal normal 1.2em 'arial', sans-serif;
